@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1781124085.12384 "e:/Research Paper/ResearchPaper/main.tex" "main.pdf" "main" 1781124086.55181 0
+["pdflatex"] 1781125059.13888 "e:/Research Paper/ResearchPaper/main.tex" "main.pdf" "main" 1781125062.98147 0
   "C:/Users/Tarek/scoop/apps/miktex/current/texmfs/data/fonts/map/pdftex/pdftex.map" 1781120522 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Tarek/scoop/apps/miktex/current/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1781120358 13338870 27828709da857daaabada37c56b94e12 ""
   "C:/Users/Tarek/scoop/apps/miktex/current/texmfs/install/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -174,10 +174,11 @@
   "C:/Users/Tarek/scoop/apps/miktex/current/texmfs/install/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Tarek/scoop/apps/miktex/current/texmfs/install/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "IEEEtran.cls" 1781119434 288304 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
-  "e:/Research Paper/ResearchPaper/main.tex" 1781124084 30894 edad2d3a26db14e535b0b91b0b5f07d6 ""
-  "main.aux" 1781124086 4041 24b7f4d7ea0327abd842ff85c43cf63a "pdflatex"
-  "main.out" 1781124086 3143 12ffea62fc049d4a1553050c7edbaef0 "pdflatex"
-  "main.tex" 1781124084 30894 edad2d3a26db14e535b0b91b0b5f07d6 ""
+  "e:/Research Paper/ResearchPaper/main.tex" 1781125054 31091 59d23bf7a28201da25cd8987177e8bed ""
+  "images/scale_1.png" 1781125012 1339428 098192e07dd8263436a26cd7ffd3450f ""
+  "main.aux" 1781125062 4272 f1eadadc7a89f2b62e6ef35263209a12 "pdflatex"
+  "main.out" 1781125062 3143 12ffea62fc049d4a1553050c7edbaef0 "pdflatex"
+  "main.tex" 1781125054 31091 59d23bf7a28201da25cd8987177e8bed ""
   (generated)
   "main.aux"
   "main.log"

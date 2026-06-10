@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12 Portable) (preloaded format=pdflatex 2026.6.10)  10 JUN 2026 23:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12 Portable) (preloaded format=pdflatex 2026.6.10)  10 JUN 2026 23:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -651,150 +651,106 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 75.
  (C:\Users\Tarek\scoop\apps\miktex\current\texmfs\install\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1{C:/Users/Tarek/scoop/apps/miktex/current/texmfs/data/fonts/map/pdftex/pdftex.map}{C:/Users/Tarek/scoop/apps/miktex/current/texmfs/install/fonts/enc/dvips/base/8r.enc}
+)
+<images/scale_1.png, id=78, 1408.26125pt x 1295.84125pt>
+File: images/scale_1.png Graphic file (type png)
+<use images/scale_1.png>
+Package pdftex.def Info: images/scale_1.png  used on input line 84.
+(pdftex.def)             Requested size: 252.0pt x 231.87703pt.
+ [1{C:/Users/Tarek/scoop/apps/miktex/current/texmfs/data/fonts/map/pdftex/pdftex.map}{C:/Users/Tarek/scoop/apps/miktex/current/texmfs/install/fonts/enc/dvips/base/8r.enc}
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
 []\T1/ptm/m/n/10 Retrieval-Augmented Gen-er-a-tion (RAG) im-proves
  []
 
 
-Underfull \hbox (badness 3907) in paragraph at lines 100--101
+Underfull \hbox (badness 3907) in paragraph at lines 107--108
 \T1/ptm/m/n/10 language-model an-swers by re-triev-ing rel-e-vant ex-ter-nal
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 100--101
+Underfull \hbox (badness 1735) in paragraph at lines 107--108
 \T1/ptm/m/n/10 de-pen-dency in-for-ma-tion, or is-sue de-scrip-tions. Text-only
  []
 
 [2
-pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.133 
-      ]
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
-
- []
-
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 138.
-(C:\Users\Tarek\scoop\apps\miktex\current\texmfs\install\tex/latex/psnfss\t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
-
- []
-
-
-Underfull \hbox (badness 1565) in paragraph at lines 142--143
-\T1/ptm/m/n/10 nor-mal-iza-tion bound-ary be-tween pars-ing and graph
- []
-
-
-Underfull \hbox (badness 1783) in paragraph at lines 142--143
-\T1/ptm/m/n/10 re-la-tion-ship types, source lo-ca-tions, and prop-er-ties.
- []
-
-
-Underfull \hbox (badness 1533) in paragraph at lines 142--143
-\T1/ptm/m/n/10 sup-port re-peated in-dex-ing and in-cre-men-tal up-dates.
- []
-
-
+l.119 
+       <./images/scale_1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 145.
+(C:\Users\Tarek\scoop\apps\miktex\current\texmfs\install\tex/latex/psnfss\t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 149--150
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 149--150
+\T1/ptm/m/n/10 nor-mal-iza-tion bound-ary be-tween pars-ing and graph
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 149--150
+\T1/ptm/m/n/10 re-la-tion-ship types, source lo-ca-tions, and prop-er-ties.
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 149--150
+\T1/ptm/m/n/10 sup-port re-peated in-dex-ing and in-cre-men-tal up-dates.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 156--157
 []\T1/ptm/m/n/10 Fourth, the sys-tem stores repos-i-tory en-ti-ties and
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 149--150
+Underfull \hbox (badness 3291) in paragraph at lines 156--157
 \T1/ptm/m/n/10 re-la-tion-ships in Neo4j. Neo4j is suit-able be-cause
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 \T1/ptm/m/n/10 repos-i-tory com-pre-hen-sion is relationship-centered.
  []
 
 
-Underfull \hbox (badness 7326) in paragraph at lines 149--150
+Underfull \hbox (badness 7326) in paragraph at lines 156--157
 \T1/ptm/m/n/10 dis-cov-ery, graph search, and GraphRAG con-text
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 166--167
-\T1/ptm/m/n/10 se-man-tic search and GraphRAG-based re-trieval.
- []
 
-
-Underfull \hbox (badness 5970) in paragraph at lines 166--167
-\T1/ptm/m/n/10 repos-i-tory sum-maries are trans-formed into dense
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
-
- []
-
-
-Underfull \hbox (badness 3078) in paragraph at lines 168--169
-\T1/ptm/m/n/10 3-small) for em-bed-ding gen-er-a-tion. The gen-er-ated
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
-
- []
-
-
-Underfull \hbox (badness 6284) in paragraph at lines 170--171
-[]\T1/ptm/m/n/10 Semantic re-trieval en-ables CodeAt-las to per-form
- []
-
-
-Underfull \hbox (badness 7012) in paragraph at lines 170--171
-\T1/ptm/m/n/10 context-aware repos-i-tory ex-plo-ration by re-triev-ing
- []
-
-
-Underfull \hbox (badness 1931) in paragraph at lines 170--171
-\T1/ptm/m/n/10 en-ti-ties that are both se-man-ti-cally and struc-turally
- []
-
-
-Underfull \hbox (badness 1735) in paragraph at lines 170--171
-\T1/ptm/m/n/10 uses em-bed-ding sim-i-lar-ity to iden-tify re-lated files,
  []
 
 
@@ -803,30 +759,83 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--171
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--176
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+\T1/ptm/m/n/10 se-man-tic search and GraphRAG-based re-trieval.
+ []
+
+
+Underfull \hbox (badness 5970) in paragraph at lines 173--174
+\T1/ptm/m/n/10 repos-i-tory sum-maries are trans-formed into dense
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 226.
 
-Underfull \vbox (badness 3679) has occurred while \output is active []
+Underfull \hbox (badness 3078) in paragraph at lines 175--176
+\T1/ptm/m/n/10 3-small) for em-bed-ding gen-er-a-tion. The gen-er-ated
+ []
 
- [3
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+
+Underfull \hbox (badness 6284) in paragraph at lines 177--178
+[]\T1/ptm/m/n/10 Semantic re-trieval en-ables CodeAt-las to per-form
+ []
+
+
+Underfull \hbox (badness 7012) in paragraph at lines 177--178
+\T1/ptm/m/n/10 context-aware repos-i-tory ex-plo-ration by re-triev-ing
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 177--178
+\T1/ptm/m/n/10 en-ti-ties that are both se-man-ti-cally and struc-turally
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 177--178
+\T1/ptm/m/n/10 uses em-bed-ding sim-i-lar-ity to iden-tify re-lated files,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--183
+
+ []
+
+[3
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.183 
+      ]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 233.
+ [4
 pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.246 
-      ] [4
+l.286 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.285 
+l.286 
       
 pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.285 
-      ]
+l.286 
+      ] [5]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -838,7 +847,9 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[5] (main.aux)
+[6
+
+] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -847,17 +858,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 12FFEA62FC049D4A1553050C7EDBAEF0;3143.
  ) 
 Here is how much of TeX's memory you used:
- 23459 strings out of 467870
- 442571 string characters out of 5413013
- 849077 words of memory out of 5000000
- 51903 multiletter control sequences out of 15000+600000
+ 23472 strings out of 467870
+ 442851 string characters out of 5413013
+ 848132 words of memory out of 5000000
+ 51914 multiletter control sequences out of 15000+600000
  741806 words of font info for 155 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,10n,104p,892b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,10n,104p,892b,592s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Tarek/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Tarek/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Tarek/scoop/apps/miktex/current/texmfs/install/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Tarek/scoop/apps/miktex/current/texmfs/install/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Tarek/scoop/apps/miktex/current/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Tarek/scoop/apps/miktex/current/texmfs/install/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Tarek/scoop/apps/miktex/current/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (5 pages, 126529 bytes).
+Output written on main.pdf (6 pages, 814061 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
- 157 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 185 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
+ 162 words of extra memory for PDF output out of 10000 (max. 10000000)
 
